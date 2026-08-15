@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy Matías 👋<br>Aprendiz de Programador Full Stack<br>¡Bienvenido a mi perfil! Soy Matías, un apasionado aprendiz de programador Full Stack con 28 años y siempre con ganas de aprender más. Me  interesa adentrarme en el mundo del desarrollo, y estoy en constante búsqueda de nuevos conocimientos y desafíos.
+¡Hola! Soy Matías 👋
+
+En camino al Desarrollo Full Stack
+
+¡Bienvenido! Tengo 30 años y estoy construyendo mis bases en la programación. Me mueve la curiosidad por entender cómo funcionan las cosas y el compromiso de seguir mejorando paso a paso en cada proyecto.
 
 
 ## 🌐 Socials:
